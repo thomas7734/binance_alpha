@@ -1,2 +1,1 @@
-# binance_alpha
-this is binance_alpha
+﻿今日的空投信息通过接口推送
